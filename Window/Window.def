@@ -1,0 +1,3 @@
+LIBRARY	window
+EXPORTS
+	Init_window

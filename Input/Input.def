@@ -1,0 +1,3 @@
+LIBRARY	input
+EXPORTS
+	Init_input
